@@ -1,0 +1,2 @@
+DROP TABLE IF EXISTS Employee1;
+DROP TABLE IF EXISTS Department;
